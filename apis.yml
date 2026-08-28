@@ -16,6 +16,17 @@ description: >-
   The platform is SOC 2 Type II certified and GDPR/CCPA aligned, uses no facial
   recognition, and stores no PII. Ambient.ai is backed by a16z and Allegion.
 url: https://raw.githubusercontent.com/api-evangelist/ambientai/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
