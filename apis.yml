@@ -52,13 +52,13 @@ modified: '2026-07-17'
 tags:
 - Company
 - Physical Security
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Video Analytics
 - Access Control
 - Threat Detection
 - Enterprise Security
-- Agentic AI
+- AI Agents
 tags_raw:
 - Company
 - Physical Security
@@ -69,6 +69,7 @@ tags_raw:
 - Threat Detection
 - Enterprise Security
 - Agentic AI
+- Computer-Vision
 apis: []
 common:
 - type: DomainSecurity
