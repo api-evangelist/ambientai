@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ambient.ai is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Ambient.ai (legal entity Ambient AI, Inc.) is an AI-powered enterprise physical security platform founded in 2016 by Stanford AI researchers Shikhar Shrestha and Vikesh Khanna, and headquartered in Redwood City, California. The company created the category of "Agentic Physical Security," where purpose-built computer vision and a Vision-Language Model (Ambient Pulsar) autonomously observe, detect, assess, and respond to real-world threats in real time. Ambient.ai transforms an organization's existing cameras, sensors, and access control systems into a unified intelligence layer through products including Ambient Foundation (real-time situational awareness), Ambient Advanced Forensics (investigation acceleration), Ambient Access Intelligence (PACS correlation to eliminate false alarms), and Ambient Threat Detection (150+ validated threat signatures). It integrates with 200+ ONVIF cameras and VMS/PACS platforms such as Axis, Hanwha, Avigilon, Genetec, Milestone, LenelS2, and Honeywell. The platform is SOC 2 Type II certified and GDPR/CCPA aligned, uses no facial recognition, and stores no PII. Ambient.ai is backed by a16z and Allegion.
 
-Backed by: a16z
+**Areas:** Company · Physical Security · Computer Vision · Artificial Intelligence · Video Analytics · Access Control · Threat Detection · Enterprise Security · AI Agents
+
+## Ambient.ai on APIs.io
+
+Everything profiled for Ambient.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ambientai/](https://apis.io/providers/ambientai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ambientai Domain Security](https://apis.io/security/ambientai/ambientai-domain-security/)
+- [Ambientai Trust Center](https://apis.io/security/ambientai/ambientai-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ambient.ai)
+- [Documentation](https://www.ambient.ai/ai-info)
+- [Sign up](https://www.ambient.ai/request-demo)
+- [Support](https://www.ambient.ai/request-demo)
+- [Blog](https://www.ambient.ai/blog)
+- [Compliance](https://www.ambient.ai/press/soc2-type-ii-certification)
+- [Terms of service](https://www.ambient.ai/terms-of-service)
+- [Privacy policy](https://www.ambient.ai/privacy-policy)
+- [GitHub](https://github.com/ambientai)
+
+## API Evangelist rating
+
+**Kin Score 19.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ambientai/](https://apis.io/providers/ambientai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ambient.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ambientai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
